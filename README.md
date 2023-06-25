@@ -34,9 +34,10 @@ Mobile: 0988-561-184-Portfolio
 * 覺揚股份有限公司
   * 職位:實習生
     * FileMaker開發系統
-      * 使用FileMaker完成主管交代系統功能
+      * 使用FileMaker軟體完成主管交代系統功能
+      * 新增、刪除、修改系統功能
     * Line bot
-      * 使用Google API與LINE Bot Designer取開發機器人系統
+      * 使用Google API與LINE Bot Designer開發Line機器人系統
       * 使用Html、Css 與 JavaScript去架設系統網站
     
 # 作品集

@@ -1,7 +1,7 @@
 # 黃韋傑 
 Birthday: 1999/01/20
 
-Education:慈濟大學 / 醫學資訊學系 
+Education:慈濟大學 / 醫學資訊研究所 
 
 Location: 台中市 
 

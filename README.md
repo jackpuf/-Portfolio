@@ -41,8 +41,10 @@ Mobile: 0988-561-184-Portfolio
       * 使用Google API與LINE Bot Designer開發Line機器人系統
       * 使用Html、Css 與 JavaScript去架設系統網站
 
-# 證明
-
+# 研討會(活動)證書
+  ![image](KY5035-2.jpg)
+  ![image](巨匠證明.png)
+  ![image](巨匠證明2.png)
 # 作品集
 # 畢業專題
 * 健康保健資訊資料庫之存取控制

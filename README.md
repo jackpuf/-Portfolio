@@ -45,6 +45,7 @@ Mobile: 0988-561-184-Portfolio
   * 2022 6th International Conference on Medical and Health Informatics
   ![image](KY5035-2.jpg)
  * 巨匠工業局活動證明
+
   ![image](巨匠證明.png)
   ![image](巨匠證明2.png)
 # 作品集

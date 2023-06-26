@@ -42,7 +42,9 @@ Mobile: 0988-561-184-Portfolio
       * 使用Html、Css 與 JavaScript去架設系統網站
 
 # 研討會(活動)證書
+  * 2022 6th International Conference on Medical and Health Informatics
   ![image](KY5035-2.jpg)
+ * 巨匠工業局活動證明
   ![image](巨匠證明.png)
   ![image](巨匠證明2.png)
 # 作品集
@@ -74,7 +76,15 @@ Mobile: 0988-561-184-Portfolio
 * 遊戲遊玩介面
 
   ![image](螃蟹接硬幣2.png)
-
+  
+    ⌞ 使用 C# 語法設計的小遊戲。
+  
+    ⌞ 包含C#視窗使用圖片、背景、音樂設定...等等。
+  
+    ⌞ 使用 C# 基本的Class等物件導向程式設定。
+  
+    ⌞ 使用C#去紀錄最高分讀寫檔案。
+  
 # 網頁-健康紀錄系統
 * 系統功能
   ![image](健康照護系統1.png)
@@ -83,3 +93,14 @@ Mobile: 0988-561-184-Portfolio
   
 * 修改病人資料
   ![image](健康照護系統-修改.png)
+
+  ⌞ 使用ASP.Net 完成簡易的病人健康照護系統。
+  
+  ⌞ 其中使用SQL指令來將病人的基本資料存入資料庫中。
+  
+  ⌞ 使用Table將資料庫中的資訊顯示於網頁上。
+  
+  ⌞ 網頁可使用簡易的新增、查詢、修改、刪除等功能。
+  
+  
+  

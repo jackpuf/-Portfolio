@@ -51,6 +51,9 @@ Mobile: 0988-561-184-Portfolio
 # 作品集
  # 畢業專題
 * 使用PUF技術於健康保健資訊資料庫之存取控制
+
+![專題作品說明文件](https://github.com/jackpuf/-Portfolio/blob/main/%E5%B0%88%E9%A1%8C%E4%BD%9C%E5%93%81%E5%9F%B7%E8%A1%8C%E6%B5%81%E7%A8%8B.pdf)
+  
   ![image](專題作品-認證.png)
 * 醫生向Server取得資料庫
 
@@ -72,7 +75,8 @@ Mobile: 0988-561-184-Portfolio
   
 # 視窗-螃蟹接硬幣小遊戲
 
-[螃蟹接硬幣說明文件](https://github.com/jackpuf/-Portfolio/blob/main/%E8%9E%83%E8%9F%B9%E6%8E%A5%E7%A1%AC%E5%B9%A3%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6.pdf)
+![螃蟹接硬幣說明文件](https://github.com/jackpuf/-Portfolio/blob/main/%E8%9E%83%E8%9F%B9%E6%8E%A5%E7%A1%AC%E5%B9%A3%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6.pdf)
+
 
 * 遊戲關卡選擇
 

@@ -72,8 +72,10 @@ Mobile: 0988-561-184-Portfolio
   
 # 視窗-螃蟹接硬幣小遊戲
 
+[螃蟹接硬幣說明文件](https://github.com/jackpuf/-Portfolio/blob/main/%E8%9E%83%E8%9F%B9%E6%8E%A5%E7%A1%AC%E5%B9%A3%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6.pdf)
+
 * 遊戲關卡選擇
-(螃蟹接硬幣說明文件.pdf)
+
   ![image](螃蟹接硬幣1.png)
 * 遊戲遊玩介面
 
